@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a second-year Data Science student at NSBM Green University. I’m passionate about turning complex data into actionable insights and exploring the intersection of technology and ethics. When I'm not coding in Python or R, you can find me behind the lens at Lens of SKR or keeping up with the latest in Formula 1.<br>Currently working on a centralized system for camera rentals(vibe coding it)
+👋 Hi there! I'm a second-year Data Science student at NSBM Green University. I’m passionate about turning complex data into actionable insights and exploring the intersection of technology and ethics. When I'm not coding in Python or R, you can find me behind the lens at Lens of SKR or keeping up with the latest in Formula 1.
 
 
 ## 🌐 Socials:
